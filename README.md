@@ -58,36 +58,7 @@ Designed with scalability, security, and modern development practices in mind.
 - Statistics
 - Website Settings
 
-  # 📸 Screenshots
-
-## 🏠 Home
-
-![Home](screenshots/user1)
-
----
-
-## 🔍 Search
-
-![Search](screenshots/search.png)
-
----
-
-## 🏢 Property Details
-
-![Property](screenshots/property-details.png)
-
----
-
-## ❤️ Favorites
-
-![Favorites](screenshots/favorites.png)
-
----
-
-## 📊 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
+ 
 ## 🛠 Tech Stack
 
 Frontend
