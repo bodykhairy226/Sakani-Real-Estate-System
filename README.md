@@ -62,7 +62,7 @@ Designed with scalability, security, and modern development practices in mind.
 
 ## 🏠 Home
 
-![Home](screenshots/home.png)
+![Home](screenshots/user1)
 
 ---
 
